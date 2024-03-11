@@ -31,7 +31,7 @@
             {
               "id": "Page1__$JSModule1_1$_JSModule1.myFun1",
               "name": "_$JSModule1_1$_JSModule1.myFun1",
-              "collectionId": "Page1__$JSModule1_1$_JSModule1",
+              "collectionId": "Page2__$JSModule1_1$_JSModule1",
               "clientSideExecution": true,
               "confirmBeforeExecute": false,
               "pluginType": "JS",
